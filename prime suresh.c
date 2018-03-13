@@ -9,7 +9,7 @@ if(v%i==0)
 flag++; 
 }
 if(flag==0)
-printf("prime");
-else printf("no");
-return 0;
+printf("prime suresh");
+else printf("no ghgf");
+return (0);
 }
