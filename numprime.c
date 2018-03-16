@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int main(void)
 {
     int m, n, i, flag;
     scanf("%d %d", &m, &n);
@@ -20,5 +20,5 @@ int main()
             printf("%d ", m);
     }
 
-    return 0;
+    return (0);
 }
